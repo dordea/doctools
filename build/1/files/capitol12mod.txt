@@ -1,0 +1,74 @@
+       Tipologia și particularitățile sistemelor de programare prevede proiectarea și dezvoltarea sistemelor de prelucrare a datelor (DDS) pentru obiecte de control date, sisteme automatizate (AIS) în diverse scopuri. 
+Sistemul de acceptare a comenzilor include următoarele: - acceptarea cererilor pentru produse, - procesarea cererilor; - executarea aplicațiilor. Trebuie remarcat faptul că există diverse sisteme pe piața software-ului care automatizează procesarea cererii unui utilizator. Să analizăm principalele instrumente software ale acestui grup, prezentate pe piața software-ului. 
+În primul rând, vom analiza sisteme software mari care stochează date despre clienți și comenzile acestora. Unul dintre aceste programe mari este „1C: Trade Management 8”. Este un instrument modern pentru îmbunătățirea eficienței afacerii unei întreprinderi comerciale . Soluția aplicată este concepută pentru toate tipurile de operațiuni de tranzacționare.
+ Au fost implementate funcțiile contabile de la menținerea directoarelor și introducerea documentelor primare până la obținerea diverselor rapoarte analitice. Soluția permite este să ținem contabilitatea managementului pentru întreprinderea comercială în ansamblu. Pentru o întreprindere cu o structură de participare, documentele pot fi întocmite în numele mai multor organizații care fac parte din exploatație. Soluția aplicată automatizează următoarele domenii de activitate: managementul relației cu clienții; managementul vânzărilor (inclusiv comerț cu ridicata, cu amănuntul și comision); managementul achizițiilor; analiza prețurilor și gestionarea politicii de preț; gestionarea stocurilor de depozite; gestionarea numerarului; contabilizarea costurilor comerciale; Contabilitate TVA; monitorizarea și analiza eficacității activităților de tranzacționare. 1C Enterprise oferă metode moderne de gestionare a relației cu clienții (CRM). 
+Managementul relațiilor cu clienții, cunoscut și sub denumirea de CRM sau CustomerRelationshipManagement, este o zonă funcțională integrală a sistemului de informații întreprinderi de la capăt la cap. Conceptul CRM implică colectarea și analiza periodică a informațiilor despre fiecare client, reale și potențiale: cum a reacționat clientul la propunerea de afaceri, dacă este mulțumit de calitatea serviciului, dacă preferințele sale se schimbă în timp, cât de exact își îndeplinește obligațiile și, în cele din urmă, cât de mare venit aduce clientul (sau ar putea aduce) compania. 
+Astăzi există o serie de programe care implementează tehnologia „Sistem de gestiune a programărilor”. Se propune luarea în considerare a mai multor, folosind exemple de programe bine cunoscute. Sistemul de programare și contabilizare a volumului de muncă al cadrelor didactice de la universitate „1C: ChronoGraph Schedule”. 
+Programul „1C: ChronoGraph Timetable” este conceput pentru a automatiza planificarea și programarea educațională în departamentele individuale ale instituțiilor de învățământ profesional și superior, la diferite cursuri de formare comerciale și necomerciale (computer, învățarea limbilor străine, școli de șoferi etc.), în instituții de educație suplimentară, dezvoltare profesională și recalificare a specialiștilor. 
+„1C: ChronoGraph Schedule” oferă o oportunitate de:
+ 1. Pregătim date privind perioada de studiu, luând în considerare specificul organizării activităților educaționale ale unei anumite instituții de învățământ pe baza: 
+- sarcini din anul școlar; 
+- împărțirea anului universitar în perioade de planificare academică; 
+- repartizarea perioadelor de studiu într-o perioadă de planificare a studiilor pentru a detalia detaliatul timpului cursurilor de predare, formarea grupurilor de studiu și a activității profesorilor;
+ - completarea automată a listei de sărbători;
+ - sarcini de săptămâni nelucrătoare și vacanțe; 
+- generarea automată a unei liste de săptămâni care se încadrează în perioada selectată de planificare educațională cu o indicație a semnului impar / par și a numărului de zile lucrătoare. 
+2. Planificăm activitățile educaționale ale întregii instituții de învățământ sau ale subdiviziunilor individuale (facultăți, departamente, departamente etc.), utilizând: 
+- organizarea și repartizarea structurii nivelurilor de instruire cu posibilitatea diferențierii acestora în subnivele; 
+- formarea unei liste de cursuri de formare (subiecte, discipline, subiecte etc.) cu o indicație a timpului predării lor și a capacității de a vizualiza informații despre săptămânile academice incluse într-o perioadă de timp dată; 
+- crearea unei liste a grupurilor de studiu care indică numărul, specializarea și nivelul de instruire; 
+- împărțirea grupurilor de instruire în numărul necesar de subgrupuri din cadrul cursului de formare selectat; - repartizarea subgrupurilor identice într-un grup pentru mai multe cursuri de formare;
+ - crearea de asociații de streaming de grupuri / subgrupuri pentru cursul de formare selectat;
+ - repartizarea sarcinii grupurilor / subgrupurilor de studiu pentru întreaga perioadă de planificare a studiului;
+ - formarea unei liste a cadrelor didactice; - distribuirea orelor cursului de formare în cadrul grupului / subgrupului de studiu pentru mai mulți profesori pentru diferite perioade de timp într-o perioadă dată de planificare a studiului;
+ - planificarea automată a volumului de muncă al profesorului pentru o secvență dată de săptămâni cu posibilitatea editării manuale. Un alt sistem CRM, Marketing și Management, a fost dezvoltat de compania KOMPAS, informațiile despre acesta sunt prezentate pe site-ul web crm.kompas.ru.
+ Funcțiile principale ale sistemului de marketing și management CRM pot fi segmentate în 5 secțiuni .
+ 1. Funcțiile managementului vânzărilor (SalesForceAutomation) 
+2. Funcții de gestionare a serviciilor (CustomerService & Support) 
+3. Funcțiile de gestionare a relațiilor cu partenerii (PartnersRelationshipManagement) 
+4. Funcțiile automatizării marketingului (MarketingAutomation) 
+5. Funcțiile de planificare și monitorizare a muncii angajaților (TimeManagement și CallCenter) 
+Creăm un program metodic consecvent al sesiunilor de formare pe baza:
+ - planificarea săptămânală a orelor pentru un anumit profesor direct la programare; 
+- alocarea de cursuri profesorilor în modul de grup selectat pentru săptămâna curentă;
+ - capacitatea de a copia programul profesorului sau grupului de studiu selectat din săptămâna curentă într-o secvență specificată de săptămâni în perioada de studiu;
+ - utilizarea unui algoritm eficient „Calcul preliminar” la elaborarea opțiunilor „schiță” pentru program; 
+- utilizarea „Calculului automat” interactiv pentru întocmirea „versiunii finale” a programului pentru săptămâna curentă pentru orice număr de grupuri de studiu, cu posibilitatea editării manuale suplimentare; 
+- numirea de săli de clasă (săli de clasă) pentru desfășurarea orelor, ținând seama de locația, capacitatea și numărul grupurilor de studiu.
+ Pe baza informațiilor disponibile, programul 1C: ChronoGraph Schedule permite să generăm toate formularele de raportare necesare cu posibilitatea de a le personaliza în funcție de numeroși parametri. 
+Produsul software (PP) „1C: ChronoGraph Schedule” este o configurație pentru un singur utilizator a sistemului software „1C: Enterprise 7.7” și poate fi utilizat împreună cu orice versiune (cu excepția versiunilor de bază) a produselor software care utilizează componentele „Contabilitate” "," Calcul "," Contabilitate operațională pentru "sistemul software" 1C: Enterprise 7.7 "(de exemplu," 1C: Contabilitate 7.7 Versiune standard "). 
+Produsul poate funcționa pe baza versiunii de rețea a „1C: Enterprise 7.7”, dar dacă diviziile structurale (facultăți, departamente sau departamente) alcătuiesc un program independent într-o instituție de învățământ, atunci fiecare dintre ele trebuie să cumpere o copie separată a produsul. 
+După ce am analizat toate aspectele acestei evoluții, putem spune că transmite integritatea unei astfel de probleme ca programare. Dar principalul său dezavantaj este incompatibilitatea cu  platformele deschise 1C: ChronoGraph este un sistem închis. Inițial nu oferă o interfață pentru integrarea produselor terțe, de exemplu, este imposibil să se integreze direct ChronoGraph DBMS și serverul de aplicații web. De asemenea, poate fi clasificat ca un PCB scump și, conform unor statistici, este dificil de manevrat. 
+Programul „Avtor”. 
+Sistemul „Avtor Schedule” este conceput pentru programarea rapidă, convenabilă și de înaltă calitate a cursurilor și pentru a le însoți pe tot parcursul anului universitar. 
+Există opt modificări principale ale programului pentru diferite instituții de învățământ pentru școli secundare, licee și gimnazii, colegii, școli tehnice și profesionale, școli de artă și cultură, pentru universități. AVTOR ajută la simplificarea și automatizarea cât mai mult posibil a lucrărilor complexe ale orarelor. 
+Sistemul ajută la construirea, reglarea și tipărirea cu ușurință sub formă de documente vizuale și convenabile: 
+- programele clasei (grupuri de studiu); 
+- programele profesorilor;
+ - programul de angajare a publicului (birouri);
+ - sarcini de antrenament.
+ Durata de funcționare a programului depinde de mărimea instituției și de puterea computerului. Un calcul complet și optimizarea programului unei școli de dimensiuni medii cu date inițiale complexe (40 de clase, 80 de profesori, dintre care mai mult de 10 lucrători cu fracțiune de normă; două schimburi; deficit de clasă) durează aproximativ 2-3 minute pe un Celeron -2000 computer. 
+AVTOR permite să:
+ - construim un program fără „ferestre” pentru clase (grupuri de studiu);
+ - optimizăm ferestrele cadrelor didactice în program;
+ - să ia în considerare intervalul necesar de zile / ore pentru clase, pentru profesori și pentru clase; 
+- să ia în considerare natura muncii și dorințele atât ale angajaților cu normă întreagă, cât și ale angajaților cu jumătate de normă;
+ - plasează în mod optim clasele în sălile de clasă (audiențe), ținând seama de caracteristicile claselor, materiile, prioritățile profesorilor și capacitatea sălilor de clasă;
+ - introducem un program de apeluri; - stabilim timpul de tranziție (mutare) între clădirile educaționale; 
+- optimizăm numărul de tranziții de la birou la birou și de la corp la corp;
+ - este ușor să conectăm orice clase (grupuri de studiu) în fluxuri pentru orice clase; 
+- să împartă clasele (grupurile de studiu) atunci când se desfășoară cursuri într-o limbă străină, cultură fizică, muncă, informatică (și orice alte discipline) în orice număr de subgrupuri (până la zece!); 
+- introduce lecții combinate pentru subgrupuri (cum ar fi „străin / informatică”) în orice materie; 
+- introducem (pe lângă materiile principale) cursuri speciale și cursuri opționale; 
+- optimizăm uniformitatea și complexitatea programului; 
+- introducem și corectăm cu ușurință și rapid datele inițiale; 
+- au orice număr de opțiuni de programare; 
+- convertește automat programele la modificarea bazei de date;
+ - este ușor de salvat în arhive, copiat și trimis prin e-mail baze de date complete și variante de orare (volumul arhivei bazei complete a orarului unui liceu este de 10-30 K, al unei universități mari - 50 -70K); 
+- facem rapid orice ajustări necesare la program; 
+- găsim înlocuitori pentru profesorii absenți temporar; 
+- controlează automat programul, excluzând orice „suprapuneri” și contradicții; 
+- afișăm programări sub formă de documente convenabile și vizuale: text, Word, HTML, precum și fișiere dBase și registre de lucru Excel; 
+- configurăm programări gata făcute în rețeaua locală și pe paginile de internet pentru acces general. 
+Este conceput pentru programarea automată a sesiunilor de antrenament. Programul permite să optimizăm utilizarea fondului clasei, să ținem cont de particularitățile procesului educațional (prelegeri, clase practice și de laborator, împărțirea în subgrupuri și organizarea cursurilor de streaming, desfășurarea orelor de educație fizică etc.), luând în considerare dorințele profesorilor, cursuri, locații ale clădirilor educaționale, clase de durată și pauze. În plus față de programul de studii cu normă întreagă, programul permite să elaborăm un orar pentru facultatea de corespondență, colegiu și alte structuri educaționale ale universității, studiind în conformitate cu alte orare ale procesului educațional. Multifuncționalitatea acestui software lasă o impresie bună, dezvoltatorii au tratat acest program cu atenția cuvenită și au luat în considerare multe probleme și nuanțe la elaborarea programului de antrenament. 
+Este sigur să spunem despre rambursarea acestui software sub forma  costurilor forței de muncă ale angajaților, dar, cu toate acestea, rămâne un produs scump, nu orice instituție de învățământ își poate permite astfel de costuri . Aceste programe sunt foarte scumpe, realizate pentru întreprinderile mari sau dificil de utilizat. De asemenea, pentru desfășurarea unor astfel de programe, este nevoie de sprijin, care necesită costuri materiale mari, încheierea unor acorduri speciale de sprijin și necesitatea menținerii unui întreg personal de angajați care va fi implicat în sprijinirea acestuia. Am luat decizia de a crea un program original mai ușor de utilizat pe platforma MS Access.

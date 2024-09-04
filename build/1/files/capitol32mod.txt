@@ -1,0 +1,18 @@
+Instalare.
+ Documentația șablonului de timp este bazată pe extensia VikAppointments din extenxia: https://extensionsforjoomla.com/.
+ Instalarea șablonului: 
+Pasul 1 - Instalăm șablonul E4J Time. După dezarhivarea fișierului.zip, din panoul de setări back-end, accesați: „Extensions → Extension Manager”, răsfoim pachetul de instalare E4J Time al versiunii Joomla, apoi apăsăm „Încărcați și instalați”
+Pasul 2 - Setăm stilul implicit al șablonului Accesați: „Extensii → Manager șabloane”, setăm stilul șablonului E4J Time ca stil de șablon implicit.
+Descrierea modulelor: 
+În inginerie software, un modul este o porțiune a unui proiect care îndeplinește o funcție specifică și poate fi utilizat singur sau combinat cu alte module ale aceluiași proiect. Aici prezentăm descrieri detaliate ale fiecărui modul, evidențiind principalele sale caracteristici, semnificația și relația cu alte module.
+ Descrierea modulelor utilizate:
+ 1. Slider de conținut Vik 2. Icoane Vik 
+3. Cuvinte Vik 
+4. Vik Google Maps 
+5. Vik Counters 
+6. Formular de contact Vik 
+7. Căutare întâlniri Vik 
+8. Coș de întâlniri Vik 
+9. Servicii de întâlniri Vik Shuffle
+10.Grila de numire a angajaților Vik 
+Setările șablonului Configurare siglă. În această pagină putem alege diferiți parametri, de la configurarea logoului . pentru a alege dimensiunea textului.

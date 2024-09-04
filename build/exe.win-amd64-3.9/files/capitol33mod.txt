@@ -1,0 +1,15 @@
+Introducerea tehnologiilor informaționale moderne este costisitoare. Funcționarea companiilor într-un mediu de piață necesită cel puțin o analiză a consecințelor economice și chiar mai bună - o evaluare a eficienței economice a unui anumit pas în transformarea sistemului.
+ Procesul tehnologic al problemei rezolvate constă în trei etape.
+ Scopul primei etape este colectarea, înregistrarea și transmiterea datelor pentru prelucrarea ulterioară. Rezultatul este pregătirea unui document (cerere). 
+Scopul celei de-a doua etape este transferul de date pe suportul computerizat și formarea inițială a bazei de informații. 
+A treia etapă include operațiuni de acumulare, sortare, corectare, procesare a datelor și ieșirea rezultatelor. 
+În acest caz, trebuie luate în considerare următoarele cerințe: 
+- asigurarea fiabilității informațiilor procesate; 
+- rezolvarea problemelor în timp util; 
+- asigurarea forței de muncă și a costului minim al procesării datelor; 
+- disponibilitatea capacității de a procesa date pe un computer; 
+- capacitatea de a rezolva problema în diferite moduri. 
+Aceste cerințe pot fi îndeplinite din cauza mai multor factori: 
+- reducerea numărului de operațiuni, în special manuale; 
+- dezvoltarea unui sistem de control strict al informațiilor de intrare;
+ș.a
