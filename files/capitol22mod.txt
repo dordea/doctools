@@ -1,0 +1,96 @@
+Cele mai populare (cele mai vizitate) site-uri web au în comun faptul că sunt site-uri web dinamice. Dezvoltarea lor implică, de regulă, codificare pe partea de server, codificare partea de client, și tehnologie de baze de date. 
+Limbajele de programare folosite pentru a oferi conținut web dinamic sunt asemănătoare, cu toate acestea variază foarte mult între site-uri. Odata cu dezvoltarea programarii orientate pe obiecte in PHP5 si-a facut aparitia si o librarie standard(SPL – Standard PHP Library ) care cuprinde o serie de clase si interfete dezvoltate pentru a oferi solutii eficiente unor probleme de accesare si manipulare a datelor. 
+Iata mai jos o lista de interfete/clase deja existente(by default) in extensia SPL: 
+1. Iteratori 
+a. interface RecursiveIterator extends Iterator 
+b. interface OuterIterator extends Iterator 
+c. class RecursiveIteratorIterator implements OuterIterator 
+d. abstract class FilterIterator implements OuterIterator 
+e. class ParentIterator extends FilterIterator implements RecursiveIterator 
+f. interface SeekableIterator extends Iterator 
+g. class LimitIterator implements OuterIterator 
+h. class CachingIterator implements OuterIterator 
+i. class RecursiveCachingIterator extends CachingIterator implements Recursiv eIterator 
+j. class IteratorIterator implements OuterIterator 
+k. class NoRewindIterator implements OuterIterator 
+l. class EmptyIterator implements Iterator 
+m. class InfiniteIterator extends IteratorIterator 
+n. class AppendIterator implements OuterIterator 
+o. class RegexIterator extends FilterIterator 
+p. class RecursiveRegexIterator extends RegexIterator implements RecursiveIter ator 
+2. Directoare si fisiere 
+a. class SplFileInfo 
+b. class DirectoryIterator extends SplFileInfo implements Iterator 
+c. class RecursiveDirectoryIterator extends DirectoryIterator implements Recur siveIterator 
+d. class SplFileObject extends SplFileInfo implements RecursiveIterator, Seekab leIterator  
+3. XML 
+a. class SimpleXMLIterator extends simplexml_element implements RecursiveIt erator 
+4. Array-uri 
+a. class ArrayObject implements IteratorAggregate, ArrayAccess, Countable 
+b. class ArrayIterator implements Iterator, ArrayAccess, Countable, SeekableIt erator 
+c. class RecursiveArrayIterator extends ArrayIterator implements RecursiveIter ator 
+5. Numarator a. interface Countable 
+6. Exceptii 
+a. class LogicException extends Exception 
+b. class BadFunctionCallException extends LogicException 
+c. class BadMethodCallException extends BadFunctionCallException 
+d. class DomainException extends LogicException 
+e. class InvalidArgumentException extends LogicException 
+f. class LengthException extends LogicException 
+g. class OutOfRangeException extends LogicException 
+h. class RuntimeException extends Exception 
+i. class OutOfBoundsException extends RuntimeException 
+j. class OverflowException extends RuntimeException 
+k. class RangeException extends RuntimeException
+ l. class UnderflowException extends RuntimeException 
+7. Observatori 
+a. interface SplObserver 
+b. interface SplSubject 
+c. class SplObjectStorage 
+8. Clasele de tip “Example” – implementate in subdirectorul ext/SPL si care cu timpul vor fi trecute in limbajul C. CMS Java Un Java CMS este un sistem de gestionare a conținutului construit folosind limbajul Java și vastul său ecosistem de biblioteci și instrumente. Majoritatea platformelor CMS bazate pe Java profită de cadrele open source precum Spring pentru a furniza software de înaltă calitate. Când vine vorba în special de întreprinderi, un CMS bazat pe Java este ideal, deoarece limbajul Java are o lungă istorie de utilizare a software-urilor pentru întreprinderi datorită fiabilității și stabilității sale. 
+Există multe avantaje în alegerea unui CMS bazat pe Java pentru organizațiile care își dezvoltă platforma de experiență digitală (DXP):
+ 1. Tehnologie Java. Un beneficiu semnificativ cu un CMS Java îl reprezintă tehnologiile de bază. Java a fost utilizat de mult timp la nivel de întreprindere, astfel încât platforma de dezvoltare este stabilă. Există, de asemenea, o comunitate și un ecosistem mare, cu multe biblioteci, cadre și instrumente care fac dezvoltarea Java mai rapidă și mai accesibilă. Aceasta înseamnă că CMS-urile Java sunt gata să se încadreze într-o stivă de tehnologie a întreprinderii. 
+2. Familiaritate. La nivel de întreprindere, companiile folosesc probabil unele programe bazate pe Java deja. Asta înseamnă că echipele lor de dezvoltare vor fi deja familiarizați cu limba și instrumentele sale. Chiar dacă compania . nu folosește Java, există o disponibilitate mai mare de angajați pentru dezvoltatori decât alte limbaje de programare mai puțin populare. Familiarizarea cu Java, prin urmare, poate reduce timpul de introducere pe piață și costul total de proprietate pentru implementarea unui CMS bazat pe Java. 
+3. Integrări. Pentru majoritatea companiilor, integrarea CMS cu alte aplicații precum CRM-uri, ERP-uri și instrumente de automatizare a marketingului este esențială. Din fericire, comunitatea Java a specificat un standard pentru software-ul modularizat numit inițiativa Open Services Gateway (OSGi). Prin urmare, un CMS bazat pe Java poate profita de standardele din ecosistemul Java pentru a face integrările cu alte programe software mai simple pentru dezvoltatori. 
+4. Securitate. Java - cu mașina virtuală Java (JVM) - este, în general, mai sigur decât alte medii de programare. Acest lucru se datorează faptului că codul Java este compilat în bytecode și rulează pe JVM într-un mediu de tip sandbox în loc de direct pe server. Java gestionează, de asemenea, gestionarea memoriei pentru dezvoltatori și alte sarcini de nivel scăzut. Acești factori reduc oportunitățile de exploatare atunci când software-ul Java este implementat în producție. 
+5. Independența platformei. Limbajul Java și, la rândul său, un CMS bazat pe Java are flexibilitatea de a fi compatibil cu orice server care poate rula JVM. Aceasta înseamnă că un CMS bazat pe Java poate fi implementat pe mașini Linux sau Windows - ambele fiind utilizate în mod obișnuit pentru infrastructura întreprinderii. Prin urmare, natura multiplataformă a Java economisește costul investițiilor în hardware specific pentru a rula un anumit CMS. 
+6. Implementare ușoară. Împreună cu independența platformei din punct de vedere hardware și al sistemului de operare, majoritatea CMS-urilor bazate pe Java pot rula pe o varietate de servere de aplicații. Acest lucru se datorează faptului că majoritatea CMS-urilor Java pot fi implementate ca un fișier WAR care este compatibil cu serverele de aplicații pe care majoritatea întreprinderilor le folosesc precum Tomcat, WebLogic și JBoss. Acest lucru permite companiilor să implementeze software-ul în mediile lor Java existente. 
+7. Scalabilitate. Scalabilitatea este critică la nivel de întreprindere și de aceea multe CMS bazate pe Java folosesc stiva J2EE. Arhitectura J2EE simplifică scalarea pe orizontală și distribuirea sarcinilor de lucru pe clustere de servere. 
+Opțiunile de implementare flexibile pentru CMS-uri bazate pe Java înseamnă, de asemenea, că pot fi implementate în cloud pentru capacități de scalare și mai mari. Cu serviciile cloud precum Amazon EC2, noile instanțe CMS pot fi implementate rapid și automat atunci când este necesar. Când vine vorba de alegerea unui Java CMS ca bază pentru DXP, trebuie să luăm în considerare interoperabilitatea platformei, flexibilitatea și caracteristicile de marketing. La nivel de întreprindere, conectarea multor sisteme de afaceri este crucială pentru construirea unei platforme eficiente de experiență digitală. De aceea, trebuie să alegem un CMS cu interoperabilitate ridicată. Aceasta înseamnă funcții de integrare robuste disponibile din cutie. La dotCMS, avem o filozofie „totul ca serviciu”, ceea ce înseamnă că API-urile REST out of the box sunt extrem de robuste. Folosind aceste API-uri REST - sau cea mai recentă API GraphQL - este mai ușor ca niciodată să conectăm și să interacționăm cu alte aplicații. Dezvoltatorii și chiar utilizatorii non-tehnici pot crea chiar puncte finale suplimentare folosind scripturi ușoare Velocity. Dacă sunt necesare integrări mai profunde sau sistemul terță parte nu expune API-uri, atunci dezvoltatorii pot utiliza pluginuri OSGi. Un DXP este eficient numai dacă este foarte personalizat pentru a îndeplini cerințele . specifice de afaceri. Asta înseamnă că ar trebui să aibă caracteristici și instrumente de care marketerii . au nevoie pentru a oferi clienților . experiențe digitale excepționale. Pentru majoritatea întreprinderilor, aceasta înseamnă dezvoltarea de funcționalități suplimentare. Cu dotCMS, dezvoltatorii pot utiliza pluginuri OSGi pentru a construi noi funcționalități. Plugin-urile OSGi rulează izolat, deci există un risc redus de impact asupra nucleului dotCMS atunci când sunt implementate. În plus, dacă există cerințe de afaceri foarte specifice, atunci codul sursă dotCMS poate fi modificat deoarece este open-source. Limbajele de programare general utilizate pe scară largă, cum ar fi Java, reprezintă o bază inevitabilă pentru multe dezvoltări moderne de aplicații. În Java Platform, Standard Edition și în mașina virtuală Java (JVM) însoțitoare, ar putea fi utilizate mai multe module de programare. Timpul este un atu pe care ar trebui să-l prețuim cu toții. Acest lucru este valabil mai ales atunci când trebuie să stabilim sau să ținem programări. 
+Dacă avem un loc de muncă care cere să ne întâlnim cu mulți clienți, vom beneficia foarte mult de utilizarea unui șablon de programare a întâlnirilor. Principalul motiv pentru care se folosește un astfel de șablon este că trebuie întotdeauna să luăm în considerare în mod adecvat modul în care ne petrecem timpul și timpul oamenilor cu care trebuie să ne întâlnim. 
+Există șabloane de programări pentru: 
+• programări zilnice 
+• programari medicale 
+• programări de instruire a angajaților 
+• programări de interviu 
+• programările profesorilor 
+• întâlniri 
+• programări lunare 
+• programare nutrițională 
+• programări săptămânale 
+Acestea sunt doar câteva exemple de situații în care putem utiliza diferitele tipuri de șabloane de programare a întâlnirilor. Există site-uri specializate în propunerea de șabloane pentru programări: https://simplybook.me/en/booking-system-features#popular, https://blackjoomla.com/easytimetable.html 
+Easytimetable (https://blackjoomla.com/easy-timetable.html) este un nou sistem de gestionare a programelor ușor de utilizat pentru a construi orare frumoase în cel mai scurt timp datorită interfeței Drag & Drop. Totuși alegerea noastră s-a axat pe: Vik Appointments. Vik Appointments este o extensie născută pentru a construi un sistem complet de programare a programărilor pentru site-ul . Joomla. Conceput pentru a programa și organiza întâlniri de orice fel, pentru orice tip de serviciu, afacere care trebuie să aibă un calendar de disponibilitate real și eficient. Acceptăm rezervările online și programăm programările pentru fiecare angajat într-un mod inteligent și eficient. Programările Vik pot fi construite ca un portal al angajaților singuri (cum ar fi profesorii). Managementul serviciilor. Serviciile sunt una dintre cele mai importante entități ale sistemului și sunt necesare pentru a primi programări online de pe site-ul . web. Serviciile sunt locurile de muncă pe care angajații le pot oferi, cum ar fi Tunsori, Consultări, Vizite medicale sau orice alt lucru care ar putea fi programat cu o programare. Mai multe întâlniri pentru același serviciu la aceeași dată și oră pot fi acceptate prin definirea capacității pentru fiecare serviciu. Serviciile pot avea costuri și durate diferite, în funcție de angajatul care urmează să fie rezervat. Prețul unui serviciu este costul de bază pe care clienții vor trebui să îl plătească fie online, fie la sosire (în funcție de opțiunile de plată definite în configurație). Serviciile gratuite care nu vor fi plătite sunt, de asemenea, acceptate. Mai mult, fiecare serviciu poate avea o durată personalizată, care este timpul necesar pentru finalizarea serviciului. Durata serviciului este, de asemenea, utilizată pentru a calcula următoarele intervale de timp liber ale angajatului pentru a primi și accepta alte programări. 
+Managementul angajaților. 
+Angajații trebuie să își definească tabelul zilelor lucrătoare pentru a configura un calendar de disponibilitate pentru serviciile pe care le oferă. Un „angajat” poate reprezenta o persoană, un obiect, o cameră sau orice altceva care ar putea fi programat să primească programări. În zilele de lucru pot fi definite cu recurența pe săptămână ( de exemplu, „ în fiecare luni“), precum și pentru câteva zile speciale ale anului (cum ar fi festivități). Ele pot fi împărțite în diferite schimburi de lucru, astfel încât angajații să poată face una sau mai multe pauze în timpul zilelor lor de lucru. De asemenea, este posibil să definim câteva zile de închidere pentru a evita primirea rezervărilor. Angajații pot fi configurăm pentru a lucra în locații diferite. Locațiile pot avea o adresă și coordonatele care trebuie afișate în Google Maps. De asemenea, este posibil să alocăm locațiile anumitor zile lucrătoare, ceea ce înseamnă că angajații pot fi disponibili pentru rezervare într-o locație în anumite zile și în alte locații în alte zile. O zonă de gestionare front-end este disponibilă pentru angajați la conectarea la conturile lor pentru a-și gestiona profilul, serviciile, plățile, zilele lucrătoare, locațiile, abonamentele etc. Toate acțiunile pe care angajații le pot efectua prin această zonă pot fi definite din pagina de configurare a pluginului. Gateway-uri de plată. Versiunea Pro a VikAppointments deblochează posibilitatea de a oferi clienților . diverse opțiuni de plată. Acest lucru va face ca site-ul . web să se transforme întrun sistem complet alimentat de comerț electronic. Pluginul vine cu trei opțiuni de plată preinstalate: PayPal, card de credit offline și numerar. Cu toate acestea, cadrul de plată poate fi extins prin instalarea unor pluginuri de plată corespunzătoare pentru VikAppointments pentru a colecta bani prin gateway-ul bancar preferat. 
+În cazul în care am dorit să procesăm plățile și să colectăm banii utilizând un gateway bancar diferit de cel disponibil în plugin în mod implicit, putem vizita secțiunea „Plăți” de pe acest site web pentru a vedea lista tuturor gateway-urilor de plată suplimentare disponibile pentru cumpărare. 
+Alternativ, dacă suntem dezvoltator sau dacă cunoaștem un programator, putem vizita documentația noastră tehnică care explică cum să creăm un plugin de plată personalizat pentru VikAppointments și gateway-ul . bancar preferat. Cele mai importante caracteristici ale VikAppointments: https://blackjoomla.com/vikappointments.html pentru programarea programărilor sunt: 
+• Gestionarea serviciilor cu prețuri, durată și categorii 
+• Managementul angajaților cu imagini, locații, descrieri și detalii 
+• Zile și ore de lucru: definim întreaga săptămână de lucru a fiecărui angajat cu schimburi diferite în fiecare zi 
+• Gestionarea opțiunilor: adăugăm servicii suplimentare pe care utilizatorii le pot rezerva online cu costuri și durate suplimentare 
+• Gestionăm lista clienților . pentru a vedea cei mai buni cumpărători 
+• Lista de așteptare pentru a anunța clienții când rezervările sunt anulate 
+• Pachete pentru a vinde mai multe întâlniri de servicii fără selectarea datei și orei 
+• Cadrul de recenzii pentru a permite clienților să lase evaluări și comentarii pentru serviciile și / sau angajații . 
+• Sistem de abonamente pentru a primi plăți de la angajații . pentru a fi listat pe site-ul . web 
+• Calendare de administrator: o gestionare completă a programărilor fiecărui angajat pentru orice serviciu 
+• Angajăm Calendare cu zilele disponibile definite în tabelul turelor de lucru 
+• Statistici și rapoarte pentru orice angajat pe baza tuturor programărilor programate 
+• Plăți online cu metode de plată personalizate (PayPal, card de credit offline, plata la sosire sunt preinstalate) 
+• Funcție multilingvă pentru servicii, angajați, opțiuni, grupuri, e-mail și sms 
+• Exportări de întâlniri în format CSV și ICS pentru software de calendar precum iCalendar, Outlook, Hotmail, Google Calendar etc. 
+• Șablon de e-mail personalizabil din back-end 
+• Sincronizare automată ICS atunci când este plasată o nouă comandă 
+• Notificările prin e-mail pot fi trimise clientului care a făcut programarea, angajatului și administratorului (administratorilor) 
+• SMS API Framework pentru a trimite notificări de la furnizorul . 
+• Managementul zonei angajaților în front-end

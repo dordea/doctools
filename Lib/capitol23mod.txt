@@ -1,0 +1,41 @@
+Pregătirea datelor este o activitate realizată în toate tipurile de sisteme informaţionale, dar capătă o semnificaţie deosebită în sistemele de prelucrare automată a datelor.
+De cele mai multe ori, datele nu parcurg toate activităţile, iar unele dintre ele pot chiar să nu treacă prin cele cinci faze. Eficacitatea accesului la date. Fiecare utilizator doreşte ca interogările sale asupra bazei de date să furnizeze informaţiile necesare acestuia într-un timp cât mai scurt. Există doi parametri care măsoară performanţele accesului la date: numărul de tranzacţii pe secundă şi timpul de răspuns. Un element foarte important care influenţează aceşti parametri îl constitue operaţiile de intrare/ieşire pe disc. Pentru a optimiza aceste operaţii, majoritatea SGBD-urilor actuale folosesc memorii cache, unde se depozitează datele cele mai frecvent utilizate pe parcursul execuţiei unei aplicaţii. Coerenţa datelor. Coerenţa datelor constă în respectarea unor dependenţe care pot exista între datele bazei de date. 
+Regulile explicite sau implicite pe care datele trebuie să le respecte dea lungul evoluţiei lor în baza de date, se numesc restricţii de integritate. SGBD-ul trebuie să fie capabil să păstreze coerenţa datelor prin verificarea acestor restricţii de integritate. 
+Redundanţa controlată. Redundanţa controlată constă în posibilitatea de a înregistra unele date, eliminând astfel situaţiile de înregistrare multiple. Cu cât redundanţa este mai mică cu atât performanţele bazei de date cresc. Securitatea datelor. 
+Securitatea datelor se referă la două aspecte:
+ • accesul controlat al utilizatorului la baza de date (confidenţialitate);
+ • refacerea bazei de date în urma unor avarii. 
+Confidenţialitatea bazei de date este asigurată prin proceduri de: 
+• identificare a utilizatorilor prin nume sau cod; 
+• autentificarea prin parole; 
+• autorizarea accesului diferenţiat prin drepturi de creare, consultare, modificare sau ştergere pentru anumite segmente de date. Baza de date trebuie să fie protejată împotriva unor distrugeri logice (anomalie de actualizare) sau fizice. Pentru acestea SGBD-ul trebuie să ofere instrumente pentru:
+• crearea unor puncte de reluare; astfel spus salvarea din timp în timp a unor copii curente ale bazei de date; 
+• gestiunea unui jurnal de tranzacţii; lista operaţiilor realizate asupra bazei de date după ultimul punct de repriză. 
+Dacă apre o anomalie, care ar putea distruge baza de date, pe baza copiei de la ultima repriză şi a jurnalului de tranzacţii, se poate reface baza de date în forma iniţială. Protecţia împotriva unei distugeri fizice se face prin realizarea unor copii a bazei de date. 
+În urma studierii organizării policlinicii, sa dovedit că există următoarele grupuri de lucru (departamente) care utilizează informații despre organizarea managementului policlinicii: 
+1. Unități tehnice de calcul - stochează informații despre serviciile intreprinderii. 
+2. Profesori - stochează informații despre profesori. 
+3. Clienți - stochează informații despre pacienții policlinicii. 
+Modelul informațional. Pentru clase, sunt necesare următoarele informații (cerințe conceptuale): Informații despre birouri: 
+- numărul cabinetului; 
+- Titlu;
+ - Telefon;
+ - Zile lucrătoare; 
+- Ore de lucru. 
+Următoarele informații sunt necesare pentru medici (cerințe conceptuale): 
+Informații despre medici:
+ - Numele complet al medicului;
+ - poziția; 
+- specializare;
+ - cabinet; 
+- telefon; 
+- zile de lucru; 
+- ore de lucru.
+ Următoarele informații sunt necesare pentru pacienți (cerințe conceptuale):
+ Informații pentru pacienți: 
+- ID-ul pacientului;
+ - numele pacientului; 
+- diagnostic;
+- Data primirii; 
+- ultima recepție; 
+- următoarea recepție.

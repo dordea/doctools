@@ -1,0 +1,25 @@
+Bibliografia reprezintă un compartiment aparte al tezei şi include o listă a materialului informativ consultat de către student/masterand vizavi de problema cercetată.Sursele bibliografice urmează a fi expuse în următoarea consecutivitate şi cu respectarea punctuaţiei respective:
+-	Acte normative (acte normative internaţionale, Constituţia, actele Parlamentului, decretele Preşedintelui, actele Guvernului, actele administrative ale autorităţilor locale etc.). Se recomandă ca actele normative incluse în Bibliografie să fie ordonate conform listei dintre paranteze, propusă în enunţul anterior. Datele ce caracterizează situaţia unui anumit act normativ consultat vor include: denumirea actului, numărul şi data adoptării acestuia, sursa unde poate fi consultat. De exemplu:
+
+Legea nr. 436-XVI din 28.12.2006 privind administraţia publică locală. În: Monitorul Oficial al Republicii Moldova nr. 32-35 din 09.03.2007;
+
+-	Literatura generală şi de specialitate (monografii, manuale, articole ştiinţifice, dicţionare, articole publicistice). Se recomandă ca lucrările de specialitate şi cele de natură generală să fie ordonate în ordine alfabetică. Drept sursă primară de ordonare se ia numele autorului sau al lucrării, în cazul în care este vorba despre o culegere de articole ştiinţifice sau dicţionar. De regulă, se scrie literatura în limba română, după care urmează cea în limba engleză, franceză sau alta de circulaţie europeană şi, în final, cea în limba rusă. În general, descrierea bibliografică a unei lucrări, de tipul monografiei sau manualului, va include: numele şi prenumele autorului (autorilor); titlul lucrării; numărul volumului (în cazul existenţei a mai multor); ediţia lucrării (în cazul existenţei a mai multor); denumirea oraşului de ediţie; denumirea editurii precedată de două puncte (:); anul publicării; numărul total de pagini ale lucrării, care se indică după punct. Spre exemplu:
+
+Camerzan Inga. Reţele Petri. Teorie şi practică, suport metodic, Editura „Elena V.I.”, Chişinău, 2010, 90 p.
+
+În cazul articolelor ştiinţifice şi periodice, primele două elemente (autorul şi titlul articolului) rămân neschimbate. După acestea, descrierea bibliografică continuă cu denumirea culegerii de articole, a materialelor conferinţelor, a revistei ştiinţifice sau a ediţiei periodice, precedate de prepoziţia „În” şi două puncte (În:). Pentru cazul articolelor publicate în reviste ştiinţifice, se recomandă de a continua cu aşa elemente ca: anul, numărul ediţiei, paginile articolului (toate urmate după virgulă). Iar pentru materialele conferinţelor ştiinţifice sau pentru culegerile de articole, descrierea bibliografică include: oraşul, editura, numărul de pagini (pagina de la care începe articolul şi cea cu care se finisează). În cazul ediţiilor periodice, denumirea ediţiei este urmată de anul publicării, numărul, data şi pagina. În calitate de exemplu am putea propune următoarele trei titluri de articole publicate (în revistă ştiinţifică, în materiale ale conferinţei, în ediţii periodice):
+
+a)	Moşneaga Valeriu, Mironova Svetlana. Dimensiuni teoretice ale relaţiilor dintre autorităţile centrale şi regionale ale statului. În: MOLDOSCOPIE (Probleme de analiză politică), 2013, nr.1 (LX), p.24-34.
+ 
+b)	Morari Cristina, Mardari Violina. Deschidere spre orizonturi noi (Zilele Europei la USM). În: Universitatea, 2012, nr. 10 (133), 25 mai, p.2.
+
+-	Rapoarte, surse statistice, sondaje sociologice. Descrierea bibliografică a documentelor nominalizate se realizează prin analogie cu regulile generale prezentate mai sus:
+
+Anuarul Statistic al Republicii Moldova, ediţia 2012. Chişinău: Statistica, 2012. 560 p.
+
+-	Surse Internet. În ultimul timp, Internetul este tot mai prezent în activitatea socială a individului. Această constatare este extrem de plauzibilă, îndeosebi în cazul persoanelor încadrate în procesul de cercetare ştiinţifică, în mod aparte, când analizăm probleme de maximă actualitate, care la momentul cercetării nu au cunoscut reflectare în monografii sau alte studii de specialitate. Sursele Internet pot fi divizate în două categorii: publicaţii şi adrese (link-uri) utile. În primul caz, este vorba despre o descriere bibliografică apropiată de cazurile enunţate mai sus: se indică autorul, titlul publicaţiei, adresa completă a lucrării şi data când a fost accesată adresa respectivă. De exemplu:
+
+Boţan I. Cauzele eşecului referendumului. În: Comentarii politice, 13 septembrie 2010. http://www.e-democracy.md/monitoring/politics/comments/reasons-
+referendum-failure/ (vizitat 01.05.2013)
+
+În ceea ce priveşte cel de-al doilea caz – adresele (link-uri) utile, reprezintă paginile web care reflectă problematica cercetată de către student în cadrul tezei de licenţă. De exemplu: www.gov.md; www.viitorul.org; www.administratie.ro.

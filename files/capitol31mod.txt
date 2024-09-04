@@ -1,0 +1,16 @@
+Utilizarea:
+1. Optimizarea procesului de programare a clienților
+2. Monitorizarea datelor de intrare
+3. Colectarea datelor despre clienți
+Scop si avantaje:
+1. Adaptare pe orice sistem de operare
+2. Portabilitate
+3. Executare din extern (pagina web, rețelede socializare etc)
+Mod de funcționare:
+1. Introducere date inițiale
+2. Colectarea și programarea datelor de inrare
+3. Înscrierea in baza de date (SQLite)
+Mod de funcționare:
+1. Introducere date inițiale
+2. Distribuire în programarea timpului de muncă sau ore de muncă etc
+3. Înscrierea in baza de date (SQLite) pentru a seta programarea.
